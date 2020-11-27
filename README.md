@@ -1,6 +1,6 @@
 # Software Developer
-### description
-A software devloper would develop and test softwares to meet consumers and clients needs. They also would develop upgrades for existing applications. As a software developer you would also have to monitor quility and performance of applicatinos through testing and maintenance. They also document all work that is done for future reference. Software developers need to write codes efficiently while also testing it and fixing all the errors.
+### Description and Responsibilities
+A software devloper would develop and test softwares to meet consumers and clients needs. They also would develop upgrades for existing applications. As a software developer you would also have to monitor quility and performance of applicatinos through testing and maintenance. They also document all work that is done for future reference. Software developers need to write codes efficiently.
 ### Technical and non-technical skills for software developers
 
 |Technical skills | Non-technical skills|
@@ -17,7 +17,7 @@ $89,273 a year are for the average software developer salaries in canada or $45.
 ### Education required for software devloper
 Most of the software developers requires bachelor's degrees in computer science or software engineering. Software developers don't have licesnsing requirements but may have to get certain certifications. An example of a certification you could get would be from the Computer Society of the institute of Electrical and elecrtonics engineers. 
 
-## Waterloo Software engineering
+## [Waterloo Software engineering](https://uwaterloo.ca/future-students/programs/software-engineering)
 
 ### Entrance requirements
 * Advanced Functions (minimum final grade of 70% is required)
@@ -54,7 +54,7 @@ The length of time to complete the program would be 6 years. 4 years in school a
 ## Internship
 An addition to going to school you can aquire valuable experience by getting a job. This internship could help you to gain not only techincal skills but also non-technical skills.
 
-### Intern at autodesk as a user experience developer
+### [Intern at autodesk as a user experience developer](https://ca.indeed.com/viewjob?jk=330d7ee8eea8f315&tk=1eo2l6lbst495800&from=serp&vjs=3)
 You will work on a wide variety of product areas and technologies while developing user-facing features and API enhancements, as well as troubleshooting and resolving production-blocking issues. Develop and grow your skills through exposure to various VFX and Games technologies, open-source initiatives, language integrations and APIs (e.g., Python, C++). In addition to coding, you will be contributing to technical design and other aspects of the software development lifecycle.
 
 #### What will you do?
@@ -67,7 +67,7 @@ refine functional requirements
 * Write and maintain automatic tests to ensure that we release stable and reliable software
 
 ## Entry level position
-### (Software programmer at Vigil health solutions Inc)[https://ca.indeed.com/viewjob?cmp=Vigil-Health-Solutions-Inc.&t=Software+Programmer&jk=fca03dbbaaf2e736&sjdu=vQIlM60yK_PwYat7ToXhk9I8NiHOQ-7v2o66QU9DKp2XRhk70I4_E7pEHckTZPeAfSqf0reRc3wvqqcYXkS1og&tk=1eo39l73ot4fp800&adid=291862175&ad=-6NYlbfkN0CyxG0_u8cv6jaedsxZ0rgymj4jEB3encjeWbCwGXHSkWjzQTP9MEEdGjMoBT-T5u_RXygVdN5L-m1Lp9mocyjIjuCikqmk0hY73b5X06BT8jPH-HvyW7ce-bwqYSpwgzwJ0yJO-pks6Oo8xth37lA3kWZ47uNvfWcMyRzF2aCBxRhBmJ0RWqSdpXoXkcYAhqCfsee0iVuvr6D_RgOtFcXzrFhnpwscaich0d5gleaJ9JGDTTBdBRGqCH22o35IuuIGCJDEyLBBjC32U-oc94m5RZdnD-OCh7n_nZd7iRYWxye2wF5xhkT69rV0vICvMEzW3BqJQUO3oDNNrJhccsL8&pub=4a1b367933fd867b19b072952f68dceb&vjs=3]
+### [Software programmer at Vigil health solutions Inc](https://ca.indeed.com/viewjob?cmp=Vigil-Health-Solutions-Inc.&t=Software+Programmer&jk=fca03dbbaaf2e736&sjdu=vQIlM60yK_PwYat7ToXhk9I8NiHOQ-7v2o66QU9DKp2XRhk70I4_E7pEHckTZPeAfSqf0reRc3wvqqcYXkS1og&tk=1eo39l73ot4fp800&adid=291862175&ad=-6NYlbfkN0CyxG0_u8cv6jaedsxZ0rgymj4jEB3encjeWbCwGXHSkWjzQTP9MEEdGjMoBT-T5u_RXygVdN5L-m1Lp9mocyjIjuCikqmk0hY73b5X06BT8jPH-HvyW7ce-bwqYSpwgzwJ0yJO-pks6Oo8xth37lA3kWZ47uNvfWcMyRzF2aCBxRhBmJ0RWqSdpXoXkcYAhqCfsee0iVuvr6D_RgOtFcXzrFhnpwscaich0d5gleaJ9JGDTTBdBRGqCH22o35IuuIGCJDEyLBBjC32U-oc94m5RZdnD-OCh7n_nZd7iRYWxye2wF5xhkT69rV0vICvMEzW3BqJQUO3oDNNrJhccsL8&pub=4a1b367933fd867b19b072952f68dceb&vjs=3)
 #### Salary: 
 $40,000.00-$60,000.00 per year
 #### City
@@ -81,7 +81,7 @@ We are a Victoria based company dedicated to improving seniors' quality of life 
 * Experience making and following through on commitments in a timely manner
 * Ability to work independently and in a small team
 ## Mid level position
-### (Software developer 21AT North America R&D LTD)[https://ca.indeed.com/viewjob?cmp=21AT-Canada-Ltd.&t=Software+Developer&jk=434382829aef9ca8&q=Software+Developer&vjs=3]
+### [Software developer 21AT North America R&D LTD](https://ca.indeed.com/viewjob?cmp=21AT-Canada-Ltd.&t=Software+Developer&jk=434382829aef9ca8&q=Software+Developer&vjs=3)
 #### Salary
 $55,000
 #### City
@@ -99,12 +99,10 @@ If you love to collaborate to produce the best software designs and architecture
 * Comfortable working independently, as well as part of a fast-paced and collaborative team environment.
 * Proficient in Mandarin are assets.
 #### Requirements
-Experience:
-
-Computer Programming: 1 year (Required)
-software development: 1 year (Required)
-C++: 1 year (Required)
-Python: 1 year (Required)
+* Computer Programming: 1 year (Required)
+* software development: 1 year (Required)
+* C++: 1 year (Required)
+* Python: 1 year (Required)
 ## Senior level position 
 ### [Software developer iStrat Solutions Inc](https://ca.indeed.com/viewjob?cmp=iStrat-Solutions-Inc.&t=Software+Developer&jk=672fcfe4983f9771&sjdu=Zzi_VW2ygsY1fzh3Ma9ZsE4zIT1NTXCwgFBhdjeTC3N2HAcvZ1BZ8URPxgldOc5GJzTHdfSaTEQ32sHMO2zJJA&tk=1eo3j8legt5dt800&adid=361742209&ad=-6NYlbfkN0Dl22PVlTmFa8Thapwrrq9QCJiPVTCX0OH34k_h_VpuKBZZNMPBo5VJLDIdZ0wV6uRbUlYQRMT_zyEsWjTsgEG0O7x6pf94EQKaA15NQjJA3NSFRJMRmbX54iCZKx7Dqxva1cgNA8dLdFMwsIvL4fdEOVU8fKp9eVg7pNEaLLhpNU9LOBoRFqb04WlDCVTgRIxBSeI3z7fdiR4uMlV_FoOOZztUg2QgqWcSdIa7dkUXF34GJUAx8dqI4dF7BuhHbEZL8iGXHhWe5MDRmHLvQPjeSEwCyrLEh-CTWO37oD0qsbMb_umkEAz2slMNMv4pDnzZx9mw63PwZg%3D%3D&pub=4a1b367933fd867b19b072952f68dceb&vjs=3)
 #### Salary
@@ -131,3 +129,7 @@ iStrat Solutions Inc. help Small and Medium sized Enterprises (SME) and select l
 * Ability to identify, implement and manage code libraries that minimize repetitive code and improve application design.
 * Use code optimization techniques to improve robustness and performance of software.
 * Experience in Deployment/development in Linux Environment
+* ReactJS: 2 years (Preferred)
+* HTML/CSS: 2 years (Preferred)
+* javascript: 2 years (Preferred)
+* AngularJS: 2 years (Preferred)
