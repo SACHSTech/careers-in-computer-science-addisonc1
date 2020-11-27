@@ -4,7 +4,7 @@ A software developer usually is in a team of a development team. They help with 
 A software devloper Responsibilities would be to develop and test softwares. They also would develop upgrades for existing applications. As a software developer you would also have to monitor quility and performance of applicatinos through testing and maintenance. They also document all work that is done for future reference. Software developers need to write codes efficiently.
 ### Technical and non-technical skills for software developers
 
-|Technical skills | Non-technical skills|
+|Non-Technical skills | technical skills|
 |-------------    | :-------------:| 
 |Openness to new expereinces|Coding languages|
 |Creativity|debugging|
@@ -31,8 +31,7 @@ Grade 11 U Introduction to Computer Science and Grade 12 U Computer Science are 
 While in this program in Waterloo. These would be the first year courses that you would have to take:
 #### September to December:
 * CS137 - programming principles
-* ECE105 - classical mechanics
-* Math115 - Linear Algebra for engineering
+* Math115 - Linear Algebra  
 * Math117 - Calculus 1 for Engineering
 * Math135 - Algebra for Honours mathematics
 * SE101 - Introductions to Methods of Software Engineering
@@ -91,7 +90,7 @@ Markham, ON
 We are looking for a talented C++ and Python developer to help create the software for our workflow of information extraction from high resolution satellite images. Working with a small but growing software team, you will have the opportunity to work on the full software stack, from the design of the software architecture, algorithm development, to the graphical interface that allows our customers to use the system.
 Are you passionate about using C++ and Python to develop solutions to challenging problems? Are you eager to learn and develop new technologies, push the boundaries of what is possible, and help make a difference to society and the environment?
 If you love to collaborate to produce the best software designs and architecture, if you know what it means to write robust, maintainable code with reusable interfaces, and if you have a track record of delivering high-quality software in a fast-paced, multidisciplinary environment, then we would love to hear from you.
-#### skills
+#### Skills
 * Smart, creative with strong analytical skills
 * Interest in learning and result oriented
 * Enthusiastic friendly team player
@@ -105,43 +104,37 @@ If you love to collaborate to produce the best software designs and architecture
 * C++: 1 year (Required)
 * Python: 1 year (Required)
 ## Senior level position 
-### [Software developer iStrat Solutions Inc](https://ca.indeed.com/viewjob?cmp=iStrat-Solutions-Inc.&t=Software+Developer&jk=672fcfe4983f9771&sjdu=Zzi_VW2ygsY1fzh3Ma9ZsE4zIT1NTXCwgFBhdjeTC3N2HAcvZ1BZ8URPxgldOc5GJzTHdfSaTEQ32sHMO2zJJA&tk=1eo3j8legt5dt800&adid=361742209&ad=-6NYlbfkN0Dl22PVlTmFa8Thapwrrq9QCJiPVTCX0OH34k_h_VpuKBZZNMPBo5VJLDIdZ0wV6uRbUlYQRMT_zyEsWjTsgEG0O7x6pf94EQKaA15NQjJA3NSFRJMRmbX54iCZKx7Dqxva1cgNA8dLdFMwsIvL4fdEOVU8fKp9eVg7pNEaLLhpNU9LOBoRFqb04WlDCVTgRIxBSeI3z7fdiR4uMlV_FoOOZztUg2QgqWcSdIa7dkUXF34GJUAx8dqI4dF7BuhHbEZL8iGXHhWe5MDRmHLvQPjeSEwCyrLEh-CTWO37oD0qsbMb_umkEAz2slMNMv4pDnzZx9mw63PwZg%3D%3D&pub=4a1b367933fd867b19b072952f68dceb&vjs=3)
+### [Senior Python (Django) Software Developer / Engineer at BrainFinance](https://ca.indeed.com/viewjob?cmp=BrainFinance&t=Senior+Python+Software+Developer&jk=961aaf3aea30c9f5&q=senior+software+developer&vjs=3)
 #### Salary
-$40,000.00-$60,000.00 per year
+$90,000 - $125,000 a year
 #### City
-Mississauga, ON
+Toronto, ON
 #### Job description
-iStrat Solutions Inc. help Small and Medium sized Enterprises (SME) and select large clients solve their most complex functional and technical challenges. Our expertise in the Sales, Implementation and support of the Best in Class Enterprise Resource Planning (ERP) and Business Analytics solutions from SAP plus Business Continuity and Data Recovery, E-Commerce, and other solutions help to provide our clients with the competitive advantage to excel in their respective industries. As the Software Developer (fullstack), you will be responsible for the initiation and advancement of various software development initiatives leveraging numerous current and emerging technologies.
+We are looking for a Senior Python Software Developer / Engineer to join our growing development team and help us to build amazing banking platform systems. You will be working closely with other engineering team members to help create new systems that better allow our clients to interact with our growing range of products and services.
+We are looking for individuals who are obsessed with producing high-quality code. We take pride in our work, and we work hard to ensure that everything we produce is the optimal solution for the problem at hand. If you are looking to work with a growing company, where you can see the impact of your work every day, then we might be a great fit for you!
 #### Requirements 
-* Experience building scalable web applications using modern frameworks (React/ Angular, etc.) and tools (npm, etc.)
-* Good understanding of both front end (JavaScript, HTML, CSS) and server side (Node.js, express) components
-* Experience with API design and development (REST, JSON, RESTFull services).
-* CSS preprocessors like Sass or LESS
-* Front-end (CSS) frameworks like Foundation or Bootstrap
-* Experience using test-driven development and writing accurate tests
-* Experience with databases SQL and NoSQL (MongoDB, Postgres, etc...)
-* Ability to translate technical requirements into elegant code solutions.
-* Focus on continuous improvement.
-* Experience with cloud providers (AWS/OVH/Google, etc.) and service deployment
-* Embrace Agile/Scrum methodologies and development best practices.
-* Experience with Git
-* Keeping in mind Security concerns throughout the process
-* Excellent problem solving and debugging skills to rapidly identify and fix bugs and problems.
-* Ability to identify, implement and manage code libraries that minimize repetitive code and improve application design.
-* Use code optimization techniques to improve robustness and performance of software.
-* Experience in Deployment/development in Linux Environment
-* ReactJS: 2 years (Preferred)
-* HTML/CSS: 2 years (Preferred)
-* javascript: 2 years (Preferred)
-* AngularJS: 2 years (Preferred)
+* Advanced degree in Computer Science, Software Engineering, or other related areas.
+* Minimal 5 years of professional development experience core services, in event-driven architectures.
+* Must Have SaaS Web Applications Experience
+* Minimal 5 years of experience with Python/Django – both Python and Django are very important
+* Significant experience with one of Go, Java, C++, NodeJS, Swift.
+* Strong understanding of core CS topics including algorithms, data structures, operating systems, databases.
+* Experience with RESTful API design, ORM concepts, Django Migrations, software testing – strong OOD/OPP
+* Proficient knowledge of Linux, version-control systems, and Jira.
 
 
 ## Work cited 
 
 Careers, Full Bio Follow Linkedin Follow Twitter Alison Doyle is the job search expert for The Balance, et al. “Software Developer Job Description: Salary, Skills, & More.” The Balance Careers, www.thebalancecareers.com/software-developer-job-description-salary-and-skills-2061833#education-training--certification. Accessed 27 Nov. 2020.
 
+“Senior Python (Django) Software Developer / Engineer - Toronto, ON - Indeed.com.” Ca.Indeed.com, ca.indeed.com/viewjob?cmp=BrainFinance&t=Senior+Python+Software+Developer&jk=961aaf3aea30c9f5&q=senior+software+developer&vjs=3. Accessed 27 Nov. 2020.
+
 “Software Developer.” Neuvoo.Ca, 2020, neuvoo.ca/salary/?job=Software%20Developer.
+
+“Software Developer - Markham, ON - Indeed.com.” Ca.Indeed.com, ca.indeed.com/viewjob?cmp=21AT-Canada-Ltd.&t=Software+Developer&jk=434382829aef9ca8&q=Software+Developer&vjs=3. Accessed 27 Nov. 2020.
 
 “Software Developer: Educational Requirements & Career Info.” Study.com, 2012, study.com/articles/Software_Developer_Educational_Requirements_for_a_Computer_Software_Engineer.html.
 
 “Software Engineering.” Undergraduate Programs, 21 May 2019, uwaterloo.ca/future-students/programs/software-engineering.
+
+“Software Programmer.” Indeed.Ca, ca.indeed.com/viewjob?cmp=Vigil-Health-Solutions-Inc.&t=Software+Programmer&jk=fca03dbbaaf2e736&sjdu=vQIlM60yK_PwYat7ToXhk9I8NiHOQ-7v2o66QU9DKp2XRhk70I4_E7pEHckTZPeAfSqf0reRc3wvqqcYXkS1og&tk=1eo39l73ot4fp800&adid=291862175&ad=-6NYlbfkN0CyxG0_u8cv6jaedsxZ0rgymj4jEB3encjeWbCwGXHSkWjzQTP9MEEdGjMoBT-T5u_RXygVdN5L-m1Lp9mocyjIjuCikqmk0hY73b5X06BT8jPH-HvyW7ce-bwqYSpwgzwJ0yJO-pks6Oo8xth37lA3kWZ47uNvfWcMyRzF2aCBxRhBmJ0RWqSdpXoXkcYAhqCfsee0iVuvr6D_RgOtFcXzrFhnpwscaich0d5gleaJ9JGDTTBdBRGqCH22o35IuuIGCJDEyLBBjC32U-oc94m5RZdnD-OCh7n_nZd7iRYWxye2wF5xhkT69rV0vICvMEzW3BqJQUO3oDNNrJhccsL8&pub=4a1b367933fd867b19b072952f68dceb&vjs=3. Accessed 26 Nov. 2020.
