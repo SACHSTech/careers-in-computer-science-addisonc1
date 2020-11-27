@@ -47,7 +47,19 @@ While in this program in Waterloo. These would be the first year courses that yo
 The length of time to complete the program would be 6 years. 4 years in school and 2 years of co-op 
 
 ## Internship
-An addition to going to school you can aquire valuable expereince by getting a job. This internship could help you to gain not only techincal skills but also non-technical skills.
+An addition to going to school you can aquire valuable experience by getting a job. This internship could help you to gain not only techincal skills but also non-technical skills.
 
 ### Intern at autodesk as a user experience developer
 You will work on a wide variety of product areas and technologies while developing user-facing features and API enhancements, as well as troubleshooting and resolving production-blocking issues. Develop and grow your skills through exposure to various VFX and Games technologies, open-source initiatives, language integrations and APIs (e.g., Python, C++). In addition to coding, you will be contributing to technical design and other aspects of the software development lifecycle.
+
+#### What will you do?
+* Develop high quality code and collaborate on technical designs
+* Work with a diverse, cross-functional, agile team that consists of developers, 
+* content and user experience designers, QAs, and product owners to understand and 
+refine functional requirements
+* Ensure new code conforms to coding standards and meets feature specifications
+* Participate in peer code reviews
+* Write and maintain automatic tests to ensure that we release stable and reliable software
+
+## Entry level position
+
