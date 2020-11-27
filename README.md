@@ -62,4 +62,18 @@ refine functional requirements
 * Write and maintain automatic tests to ensure that we release stable and reliable software
 
 ## Entry level position
+### Software programmer at Vigil health solutions Inc
+#### Salary: 
+$40,000.00-$60,000.00 per year
+#### City
 
+#### Job description
+* Maintenance of the Vigil 3 software, including but not limited to adding functionality, bug fixing, and development of drivers to interface with hardware.
+* Assist in the development of other Vigil software.
+* Rigorous testing of the components not developed by the position (including setting up and maintaining change requests, source code configuration, version management, regression testing, black box testing, code walk-throughs and peripheral testing).
+* Produce critical system and user documentation in support of development initiatives
+* Second tier customer support
+* Other duties as required
+## Mid level position
+
+## Senior level position 
