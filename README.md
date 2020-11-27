@@ -1,4 +1,5 @@
 # Software Developer
+![alt text](https://github.com/SACHSTech/careers-in-computer-science-addisonc1/blob/main/543_378726_tech.hero.jpg "software")
 ### Description and Responsibilities
 A software developer usually is in a team of a development team. They help with the creation of the software and/or programs. They work along programmers to code the pogram and would help with a design for the software.
 A software devloper Responsibilities would be to develop and test softwares. They also would develop upgrades for existing applications. As a software developer you would also have to monitor quility and performance of applicatinos through testing and maintenance. They also document all work that is done for future reference. Software developers need to write codes efficiently.
