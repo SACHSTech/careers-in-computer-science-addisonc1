@@ -136,6 +136,8 @@ Careers, Full Bio Follow Linkedin Follow Twitter Alison Doyle is the job search 
 
 “Software Developer: Educational Requirements & Career Info.” Study.com, 2012, study.com/articles/Software_Developer_Educational_Requirements_for_a_Computer_Software_Engineer.html.
 
+“Software Developer Job Description.” Glassdoor, www.glassdoor.com/Job-Descriptions/Software-Developer.htm.
+
 “Software Engineering.” Undergraduate Programs, 21 May 2019, uwaterloo.ca/future-students/programs/software-engineering.
 
 “Software Programmer.” Indeed.Ca, ca.indeed.com/viewjob?cmp=Vigil-Health-Solutions-Inc.&t=Software+Programmer&jk=fca03dbbaaf2e736&sjdu=vQIlM60yK_PwYat7ToXhk9I8NiHOQ-7v2o66QU9DKp2XRhk70I4_E7pEHckTZPeAfSqf0reRc3wvqqcYXkS1og&tk=1eo39l73ot4fp800&adid=291862175&ad=-6NYlbfkN0CyxG0_u8cv6jaedsxZ0rgymj4jEB3encjeWbCwGXHSkWjzQTP9MEEdGjMoBT-T5u_RXygVdN5L-m1Lp9mocyjIjuCikqmk0hY73b5X06BT8jPH-HvyW7ce-bwqYSpwgzwJ0yJO-pks6Oo8xth37lA3kWZ47uNvfWcMyRzF2aCBxRhBmJ0RWqSdpXoXkcYAhqCfsee0iVuvr6D_RgOtFcXzrFhnpwscaich0d5gleaJ9JGDTTBdBRGqCH22o35IuuIGCJDEyLBBjC32U-oc94m5RZdnD-OCh7n_nZd7iRYWxye2wF5xhkT69rV0vICvMEzW3BqJQUO3oDNNrJhccsL8&pub=4a1b367933fd867b19b072952f68dceb&vjs=3. Accessed 26 Nov. 2020.
