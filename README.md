@@ -19,7 +19,7 @@ $89,273 a year are for the average software developer salaries in canada or $45.
 Most of the software developers requires bachelor's degrees in computer science or software engineering. Software developers don't have licesnsing requirements but may have to get certain certifications. An example of a certification you could get would be from the Computer Society of the institute of Electrical and elecrtonics engineers. 
 
 ## [Waterloo Software engineering](https://uwaterloo.ca/future-students/programs/software-engineering)
-
+![alt text](https://github.com/SACHSTech/careers-in-computer-science-addisonc1/blob/main/picture1.png "university of waterloo")
 ### Entrance requirements
 * Advanced Functions (minimum final grade of 70% is required)
 * Calculus and Vectors (minimum final grade of 70% is required)
