@@ -1,2 +1,11 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=3716198&assignment_repo_type=AssignmentRepo)
-# Careers in Computer Science
+# Software Developer
+
+A software devloper would develop and test softwares to meet consumers and clients needs. They also would develop upgrades for existing applications. As a software developer you would also have to monitor quility and performance of applicatinos through testing and maintenance. They also document all work that is done for future reference.
+## Technical and non-technical skills for software developers
+
+### Openness to new expereinces. 
+As a software developer you would need to try new techniques and methods to improve your code.
+### Creativity. 
+Also as a software developer you would need to find the right solutions to problems that you might incounter in the future. Some problems you might have to think about outside the box. Also as a software developer you might need to design interfaces that you might have to think outside the box. This would 
+
+## Salary 
