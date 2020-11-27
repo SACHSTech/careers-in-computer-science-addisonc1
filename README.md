@@ -1,6 +1,7 @@
 # Software Developer
 ### Description and Responsibilities
-A software devloper would develop and test softwares to meet consumers and clients needs. They also would develop upgrades for existing applications. As a software developer you would also have to monitor quility and performance of applicatinos through testing and maintenance. They also document all work that is done for future reference. Software developers need to write codes efficiently.
+A software developer usually is in a team of a development team. They help with the creation of the software and/or programs. They work along programmers to code the pogram and would help with a design for the software.
+A software devloper Responsibilities would be to develop and test softwares. They also would develop upgrades for existing applications. As a software developer you would also have to monitor quility and performance of applicatinos through testing and maintenance. They also document all work that is done for future reference. Software developers need to write codes efficiently.
 ### Technical and non-technical skills for software developers
 
 |Technical skills | Non-technical skills|
@@ -133,3 +134,14 @@ iStrat Solutions Inc. help Small and Medium sized Enterprises (SME) and select l
 * HTML/CSS: 2 years (Preferred)
 * javascript: 2 years (Preferred)
 * AngularJS: 2 years (Preferred)
+
+
+## Work cited 
+
+Careers, Full Bio Follow Linkedin Follow Twitter Alison Doyle is the job search expert for The Balance, et al. “Software Developer Job Description: Salary, Skills, & More.” The Balance Careers, www.thebalancecareers.com/software-developer-job-description-salary-and-skills-2061833#education-training--certification. Accessed 27 Nov. 2020.
+
+“Software Developer.” Neuvoo.Ca, 2020, neuvoo.ca/salary/?job=Software%20Developer.
+
+“Software Developer: Educational Requirements & Career Info.” Study.com, 2012, study.com/articles/Software_Developer_Educational_Requirements_for_a_Computer_Software_Engineer.html.
+
+“Software Engineering.” Undergraduate Programs, 21 May 2019, uwaterloo.ca/future-students/programs/software-engineering.
