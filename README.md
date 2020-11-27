@@ -1,14 +1,14 @@
 # Software Developer
-
-A software devloper would develop and test softwares to meet consumers and clients needs. They also would develop upgrades for existing applications. As a software developer you would also have to monitor quility and performance of applicatinos through testing and maintenance. They also document all work that is done for future reference.
+### description
+A software devloper would develop and test softwares to meet consumers and clients needs. They also would develop upgrades for existing applications. As a software developer you would also have to monitor quility and performance of applicatinos through testing and maintenance. They also document all work that is done for future reference. Software developers need to write codes efficiently while also testing it and fixing all the errors.
 ### Technical and non-technical skills for software developers
 
 |Technical skills | Non-technical skills|
 |-------------    | :-------------:| 
 |Openness to new expereinces|Coding languages|
-|Creativity|                 |
-|Communication skills||
-|Problem-solving skills||
+|Creativity|debugging|
+|Communication skills|Structuring code |
+|Problem-solving skills|algorithms and data structures |
 
 
 ### Salary 
@@ -20,7 +20,12 @@ Most of the software developers requires bachelor's degrees in computer science 
 ## Waterloo Software engineering
 
 ### Entrance requirements
-Then entrance requirements for Waterloo would be a minimal final grade of 70% for all advanced functions, Calculus and Vectors, Chemistry, Physics, and English. All the courses listed above are all the courses that you need to be required to sign up for this program.
+* Advanced Functions (minimum final grade of 70% is required)
+* Calculus and Vectors (minimum final grade of 70% is required)
+* Chemistry (minimum final grade of 70% is required)
+* Physics (minimum final grade of 70% is required)
+* English (ENG4U) (minimum final grade of 70% is required)
+Grade 11 U Introduction to Computer Science and Grade 12 U Computer Science are recommended as helpful background for the program.
 ### First year 
 While in this program in Waterloo. These would be the first year courses that you would have to take:
 #### September to December:
@@ -62,7 +67,7 @@ refine functional requirements
 * Write and maintain automatic tests to ensure that we release stable and reliable software
 
 ## Entry level position
-### Software programmer at Vigil health solutions Inc
+### (Software programmer at Vigil health solutions Inc)[https://ca.indeed.com/viewjob?cmp=Vigil-Health-Solutions-Inc.&t=Software+Programmer&jk=fca03dbbaaf2e736&sjdu=vQIlM60yK_PwYat7ToXhk9I8NiHOQ-7v2o66QU9DKp2XRhk70I4_E7pEHckTZPeAfSqf0reRc3wvqqcYXkS1og&tk=1eo39l73ot4fp800&adid=291862175&ad=-6NYlbfkN0CyxG0_u8cv6jaedsxZ0rgymj4jEB3encjeWbCwGXHSkWjzQTP9MEEdGjMoBT-T5u_RXygVdN5L-m1Lp9mocyjIjuCikqmk0hY73b5X06BT8jPH-HvyW7ce-bwqYSpwgzwJ0yJO-pks6Oo8xth37lA3kWZ47uNvfWcMyRzF2aCBxRhBmJ0RWqSdpXoXkcYAhqCfsee0iVuvr6D_RgOtFcXzrFhnpwscaich0d5gleaJ9JGDTTBdBRGqCH22o35IuuIGCJDEyLBBjC32U-oc94m5RZdnD-OCh7n_nZd7iRYWxye2wF5xhkT69rV0vICvMEzW3BqJQUO3oDNNrJhccsL8&pub=4a1b367933fd867b19b072952f68dceb&vjs=3]
 #### Salary: 
 $40,000.00-$60,000.00 per year
 #### City
@@ -70,17 +75,38 @@ Victoria,BC
 #### Job description
 We are a Victoria based company dedicated to improving seniors' quality of life through creative technology. We develop, manufacture and sell sophisticated monitoring and emergency call technologies throughout North America. Ours is a fast-paced environment where hard work, initiative, teamwork and flexibility are prized, and we are looking for a like minded individual to fill a key role in our Company. As a smaller organization we have a collaborative, open door culture based on trust where new ideas are welcome. If you have a strong work ethic and are looking to make a difference and feel appreciated, we would invite you to join our team.
 #### Requirements
+* Experience with programming using a current software stack
+* Experience with Windows Operating Systems
+* Experience with .NET C# programming
+* Experience making and following through on commitments in a timely manner
+* Ability to work independently and in a small team
 ## Mid level position
-### Intermediate Web Developer at Nuclear Media Inc,
+### (Software developer 21AT North America R&D LTD)[https://ca.indeed.com/viewjob?cmp=21AT-Canada-Ltd.&t=Software+Developer&jk=434382829aef9ca8&q=Software+Developer&vjs=3]
 #### Salary
-Up to $70,000.00 per year
+$55,000
 #### City
-Toronto, ON
+Markham, ON
 #### Job description
-We are currently seeking an intermediate web developer to join our growing team on a part-time basis, either as a part-time employee or an independent contractor. Due to COVID-19 the position will be entirely remote to start, however it will remain mostly remote with regular in-person meetings once this is possible again.
-We have a flexible workday (within reason), as long as meetings are attended and availability generally falls between 9am and 9pm. There is no minimum number of hours—to be determined based on our project requirements matching the skill sets of our team members.
+We are looking for a talented C++ and Python developer to help create the software for our workflow of information extraction from high resolution satellite images. Working with a small but growing software team, you will have the opportunity to work on the full software stack, from the design of the software architecture, algorithm development, to the graphical interface that allows our customers to use the system.
+Are you passionate about using C++ and Python to develop solutions to challenging problems? Are you eager to learn and develop new technologies, push the boundaries of what is possible, and help make a difference to society and the environment?
+If you love to collaborate to produce the best software designs and architecture, if you know what it means to write robust, maintainable code with reusable interfaces, and if you have a track record of delivering high-quality software in a fast-paced, multidisciplinary environment, then we would love to hear from you.
+#### skills
+* Smart, creative with strong analytical skills
+* Interest in learning and result oriented
+* Enthusiastic friendly team player
+* Excellent interpersonal and communication skills, both written and verbal.
+* Ability to work effectively on assignments through correct prioritization and management of tasks in order to ensure high-quality deliverables at each stage of the project.
+* Comfortable working independently, as well as part of a fast-paced and collaborative team environment.
+* Proficient in Mandarin are assets.
+#### Requirements
+Experience:
+
+Computer Programming: 1 year (Required)
+software development: 1 year (Required)
+C++: 1 year (Required)
+Python: 1 year (Required)
 ## Senior level position 
-### Software developer iStrat Solutions Inc
+### [Software developer iStrat Solutions Inc](https://ca.indeed.com/viewjob?cmp=iStrat-Solutions-Inc.&t=Software+Developer&jk=672fcfe4983f9771&sjdu=Zzi_VW2ygsY1fzh3Ma9ZsE4zIT1NTXCwgFBhdjeTC3N2HAcvZ1BZ8URPxgldOc5GJzTHdfSaTEQ32sHMO2zJJA&tk=1eo3j8legt5dt800&adid=361742209&ad=-6NYlbfkN0Dl22PVlTmFa8Thapwrrq9QCJiPVTCX0OH34k_h_VpuKBZZNMPBo5VJLDIdZ0wV6uRbUlYQRMT_zyEsWjTsgEG0O7x6pf94EQKaA15NQjJA3NSFRJMRmbX54iCZKx7Dqxva1cgNA8dLdFMwsIvL4fdEOVU8fKp9eVg7pNEaLLhpNU9LOBoRFqb04WlDCVTgRIxBSeI3z7fdiR4uMlV_FoOOZztUg2QgqWcSdIa7dkUXF34GJUAx8dqI4dF7BuhHbEZL8iGXHhWe5MDRmHLvQPjeSEwCyrLEh-CTWO37oD0qsbMb_umkEAz2slMNMv4pDnzZx9mw63PwZg%3D%3D&pub=4a1b367933fd867b19b072952f68dceb&vjs=3)
 #### Salary
 $40,000.00-$60,000.00 per year
 #### City
